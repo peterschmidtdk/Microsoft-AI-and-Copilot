@@ -1,6 +1,9 @@
 # Microsoft-AI-and-Copilot
 Listing resources regarding anything Microsoft AI and Copilot-related for the average IT pro.
 
+15-tips-to-become-a-better-prompt-engineer-for-generative-ai
+https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
+
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering
 
 Microsoft Copilot Training:
