@@ -1,5 +1,5 @@
 # Microsoft-Copilot
-Listing resources regarding anything Microsoft AI and Copilot related.
+Listing resources regarding anything Microsoft AI and Copilot-related for the average IT pro.
 
 Microsoft Copilot Training:
 - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/
@@ -12,3 +12,6 @@ Microsoft Copilot Adoption:
 
 AI Art Prompting Guide:
 - https://www.microsoft.com/en-us/bing/do-more-with-ai/ai-art-prompting-guide
+
+Microsoft Security Copilot:
+- https://github.com/rod-trent/Security-Copilot
