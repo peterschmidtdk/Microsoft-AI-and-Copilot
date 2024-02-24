@@ -2,6 +2,7 @@
 Listing resources regarding anything Microsoft AI and Copilot-related for the average IT pro.
 
 Microsoft Copilot Training:
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/
 
 Microsoft Copilot overview:
