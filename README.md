@@ -1,4 +1,4 @@
-# Microsoft-Copilot
+# Microsoft-AI-and-Copilot
 Listing resources regarding anything Microsoft AI and Copilot-related for the average IT pro.
 
 Microsoft Copilot Training:
@@ -16,3 +16,7 @@ AI Art Prompting Guide:
 
 Microsoft Security Copilot:
 - https://github.com/rod-trent/Security-Copilot
+
+Microsoft 365 Copilot setup guide:
+https://admin.microsoft.com/Adminportal/Home?Q=TargetingD-M365Copilot#/modernonboarding/microsoft365copilotsetupguide
+Link into your Microsoft Admin portal by going through The Microsoft 365 Copilot Advanced Deployment Guide in your tenant (Need to be logged in as Global Admin)
