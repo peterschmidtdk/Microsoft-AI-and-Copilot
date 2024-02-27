@@ -1,6 +1,11 @@
 # Microsoft-AI-and-Copilot
 Listing resources regarding anything Microsoft AI and Copilot-related for the average IT pro.
 
+Generative AI
+How to Learn Generative AI with Microsoft’s Free Course
+Blog post link: https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-learn-generative-ai-with-microsoft-s-free-course/ba-p/4067112
+Direct link: https://github.com/microsoft/generative-ai-for-beginners
+
 15-tips-to-become-a-better-prompt-engineer-for-generative-ai
 https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
 
