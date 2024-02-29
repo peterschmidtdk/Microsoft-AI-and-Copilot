@@ -11,6 +11,10 @@ https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/15-tips-to-beco
 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering
 
+Microsoft Copilot
+
+https://techcommunity.microsoft.com/t5/tech-community-live/copilot-for-microsoft-365-tech-accelerator/ev-p/4028578
+
 Microsoft Copilot Training:
 - [Introduction Microsoft 365 Copilot]([https://www.google.com](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot?WT.mc_id=M365-MVP-4020462)
 - [I'm an inline-style link](https://www.google.com)
