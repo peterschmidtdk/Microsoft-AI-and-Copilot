@@ -24,6 +24,9 @@ Microsoft Copilot overview:
 Microsoft Copilot Adoption:
 - https://adoption.microsoft.com/en-us/copilot/
 
+Prompting:
+- https://github.com/rod-trent/Security-Copilot/tree/main/Prompts - Copilot for Security Prompt Samples, Templates, and Promptbooks
+
 AI Art Prompting Guide:
 - https://www.microsoft.com/en-us/bing/do-more-with-ai/ai-art-prompting-guide
 
