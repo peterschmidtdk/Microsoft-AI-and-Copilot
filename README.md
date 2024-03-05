@@ -3,13 +3,14 @@ Listing resources regarding anything Microsoft AI and Copilot-related for the av
 
 Generative AI
 How to Learn Generative AI with Microsoft’s Free Course
-Blog post link: https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-learn-generative-ai-with-microsoft-s-free-course/ba-p/4067112
-Direct link: https://github.com/microsoft/generative-ai-for-beginners
+Blog post link: https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-learn-generative-ai-with-microsoft-s-free-course/ba-p/4067112?WT.mc_id=M365-MVP-4020462
+Direct link: https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=M365-MVP-4020462
 
-15-tips-to-become-a-better-prompt-engineer-for-generative-ai
-https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935
 
-https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering
+
+- [15-tips-to-become-a-better-prompt-engineer-for-generative-ai](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?WT.mc_id=M365-MVP-4020462)
+
+- [Advanced Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?WT.mc_id=M365-MVP-4020462)
 
 Microsoft Copilot
 - [Copilot for Microsoft 365 Tech Accelerator](https://techcommunity.microsoft.com/t5/tech-community-live/copilot-for-microsoft-365-tech-accelerator/ev-p/4028578?WT.mc_id=M365-MVP-4020462)
