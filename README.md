@@ -9,15 +9,13 @@ Direct link: https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=M
 
 
 - [15-tips-to-become-a-better-prompt-engineer-for-generative-ai](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/ba-p/3882935?WT.mc_id=M365-MVP-4020462)
-
 - [Advanced Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?WT.mc_id=M365-MVP-4020462)
 
-Microsoft Copilot
+Microsoft Copilot Training:
 - [Copilot for Microsoft 365 Tech Accelerator](https://techcommunity.microsoft.com/t5/tech-community-live/copilot-for-microsoft-365-tech-accelerator/ev-p/4028578?WT.mc_id=M365-MVP-4020462)
 
-Microsoft Copilot Training:
-- [Introduction Microsoft 365 Copilot]([https://www.google.com](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot?WT.mc_id=M365-MVP-4020462)
-- [I'm an inline-style link](https://www.google.com)
+
+- [Introduction Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot?WT.mc_id=M365-MVP-4020462)
 
 Microsoft Copilot overview:
 - https://learn.microsoft.com/da-dk/microsoft-365-copilot/microsoft-365-copilot-overview
