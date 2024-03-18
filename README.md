@@ -17,6 +17,9 @@ Microsoft Copilot Training:
 
 - [Introduction Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot?WT.mc_id=M365-MVP-4020462)
 
+Copilot Adoption and Guidance:
+- [Your path to value with Copilot for Microsoft 365](https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/your-path-to-value-with-copilot-for-microsoft-365?WT.mc_id=M365-MVP-4020462)
+
 Microsoft Copilot Studio:
 [The Copilot Studio Implementation Guide](https://github.com/microsoft/CopilotStudioSamples/tree/master/ImplementationGuide)
 
