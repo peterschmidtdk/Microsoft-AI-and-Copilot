@@ -33,7 +33,7 @@ Prompting:
 - [AI Art Prompting Guide](https://www.microsoft.com/en-us/bing/do-more-with-ai/ai-art-prompting-guide?WT.mc_id=M365-MVP-4020462)
 
 Microsoft Security Copilot:
-- [Microsoft Security Copilot](https://github.com/rod-trent/Security-Copilot)
+- [Must Learn Copilot for Security](https://github.com/rod-trent/Security-Copilot)
 
 Copilot Configuration:
 - [Microsoft 365 Copilot setup guide](https://admin.microsoft.com/Adminportal/Home?Q=TargetingD-M365Copilot#/modernonboarding/microsoft365copilotsetupguide)
