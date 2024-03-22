@@ -26,7 +26,7 @@ Microsoft Copilot overview:
 - [Microsoft Copilot overview](https://learn.microsoft.com/da-dk/microsoft-365-copilot/microsoft-365-copilot-overview?WT.mc_id=M365-MVP-4020462)
 
 Microsoft Copilot Adoption:
-- [Microsoft Copilot Adoption site[(https://adoption.microsoft.com/en-us/copilot/?WT.mc_id=M365-MVP-4020462)
+- [Copilot for Microsoft 365 Adoption site](https://adoption.microsoft.com/en-us/copilot/?WT.mc_id=M365-MVP-4020462)
 
 Prompting:
 - [Copilot for Security Prompt Samples, Templates, and Promptbooks](https://github.com/rod-trent/Security-Copilot/tree/main/Prompts)
