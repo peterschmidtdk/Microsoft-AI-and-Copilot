@@ -12,8 +12,8 @@ Direct link: https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=M
 - [Advanced Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?WT.mc_id=M365-MVP-4020462)
 
 AI Learning Pathways:
-- [AI Learning Pathways](https://aka.ms/AILearningPathway)
-- [M365 Copilot Learning Pathways](https://aka.ms/CopilotPathway)
+- [AI Learning Pathways](https://aka.ms/AILearningPathway?WT.mc_id=M365-MVP-4020462)
+- [M365 Copilot Learning Pathways](https://aka.ms/CopilotPathway?WT.mc_id=M365-MVP-4020462)
 
 
 
