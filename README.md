@@ -39,6 +39,6 @@ Copilot Configuration:
 - [Microsoft 365 Copilot setup guide](https://admin.microsoft.com/Adminportal/Home?Q=TargetingD-M365Copilot#/modernonboarding/microsoft365copilotsetupguide)
 Link into your Microsoft Admin portal by going through The Microsoft 365 Copilot Advanced Deployment Guide in your tenant (Need to be logged in as Global Admin)
 
-- [Microsoft Copilot for Microsoft 365 - best practices with SharePoint](https://learn.microsoft.com/en-us/sharepoint/sharepoint-copilot-best-practices)
+- [Microsoft Copilot for Microsoft 365 - best practices with SharePoint](https://learn.microsoft.com/en-us/sharepoint/sharepoint-copilot-best-practices?WT.mc_id=M365-MVP-4020462)
 
 
