@@ -1,6 +1,9 @@
 # Microsoft-AI-and-Copilot
 Listing resources regarding anything Microsoft AI and Copilot-related for the average IT pro.
 
+Getting started with Microsoft 365 Copilot:
+- [M365 Copilot License requirements](https://learn.microsoft.com/en-us/microsoft-365-copilot/microsoft-365-copilot-requirements#license-requirements)
+
 Generative AI
 - [How to Learn Generative AI with Microsoft’s Free Course - Blog post link](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-learn-generative-ai-with-microsoft-s-free-course/ba-p/4067112?WT.mc_id=M365-MVP-4020462)
 - [How to Learn Generative AI with Microsoft’s Free Course - Direct link](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=M365-MVP-4020462)
