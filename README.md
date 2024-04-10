@@ -21,6 +21,7 @@ Microsoft Copilot Training:
 
 Copilot Adoption and Guidance:
 - [Your path to value with Copilot for Microsoft 365](https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/your-path-to-value-with-copilot-for-microsoft-365/ba-p/4078744?WT.mc_id=M365-MVP-4020462)
+- [Accelerate your AI journey with our Copilot Success Kit](https://adoption.microsoft.com/en-us/copilot/success-kit?WT.mc_id=M365-MVP-4020462)
 
 Microsoft Copilot Studio:
 - [The Copilot Studio Implementation Guide](https://github.com/microsoft/CopilotStudioSamples/tree/master/ImplementationGuide)
