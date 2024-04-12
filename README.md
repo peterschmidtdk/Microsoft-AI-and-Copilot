@@ -45,4 +45,6 @@ Link into your Microsoft Admin portal by going through The Microsoft 365 Copilot
 
 - [Microsoft Copilot for Microsoft 365 - best practices with SharePoint](https://learn.microsoft.com/en-us/sharepoint/sharepoint-copilot-best-practices?WT.mc_id=M365-MVP-4020462)
 
+Scripts and Automation
+- [Cost Automation Script for Copilot for Security by Morten Knudsen](https://github.com/KnudsenMorten/Copilot4SecurityTools)
 
